@@ -15,7 +15,7 @@
     "modules-right": [ 
     "group/hardware",
     "group/volume",
-    "network", 
+    "group/connections", 
     "battery",
     "clock",
     "custom/powermenu",
@@ -109,6 +109,35 @@
       "format-disconnected": " ⚠ ",
       "format-alt": "{ifname}: {ipaddr}/{cidr}"
     },
+   "bluetooth": {
+	"format": " {status}",
+	"format-disabled": " off",
+	"format-off" : " disabled",
+	"format-connected": " connected",
+	"format-connected-battery": " {device_battery_percentage}%",
+	"format-no-controller": "no ctrller",
+	"format-alt": " {device_alias}", 
+	"tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
+	"tooltip-format-disabled": "Bluetooth Disabled",
+	"tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
+	"tooltip-format-enumerate-connected": "{device_alias}\n{device_address}",
+        "tooltip-format-enumerate-connected-battery": "{device_alias}\n{device_address}\n{device_battery_percentage}%",	
+
+	"on-click-right": "blueman-manager",
+	"interval": 5,
+   },
+   "group/connections" : {
+      "orientation": "horizontal",
+      "drawer": {
+      	  "transition-duration": 500,
+	  "children-class" : "not-connections",
+	  "transition-left-to-right": false,
+      },
+      "modules": [ 
+	  "network",
+	  "bluetooth",
+      ]
+   },
    "backlight": {
       "format": "{icon} {percent}%",
       "format-icons": ["", ""],
