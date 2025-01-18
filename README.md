@@ -1,4 +1,3 @@
-
 <!-- INFORMATION -->
 <h1 align="left">About</h1> 
 
@@ -38,3 +37,17 @@
 * **Switch to another workspace** - `super + [0-9]`
 
 The other hotkeys are in `~/.config/hypr/hyprland.conf`.
+
+<!-- INSTALLATION -->
+## Installation
+
+```
+git clone https://github.com/buzzismaloy/dotfiles-hyprland.git
+
+mv fastfetch/* ~/.config/fastfetch/
+mv hypr/* ~/.config/hypr/
+mv kitty/* ~/.config/kitty/
+mv waybar/* ~/.config/waybar/
+mv wlogout/* ~/.config/wlogout/
+mv wofi/* ~/.config/wofi/
+```
