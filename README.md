@@ -18,11 +18,11 @@
 
 <!-- IMAGES -->
 ## Gallery
-![gallery](screenshots/1.png)
+![gallery](screenshots/1.jpg)
 ![gallery](screenshots/2.png)
-![gallery](demonstration/3.png)
-![gallery](demonstration/4.png)
-![gallery](demonstration/5.png)
+![gallery](demonstration/3.jpg)
+![gallery](demonstration/4.jpg)
+![gallery](demonstration/5.jpg)
 
 <!-- HOTKEYS -->
 ## HotKeys
