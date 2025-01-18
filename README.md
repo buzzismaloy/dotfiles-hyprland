@@ -20,9 +20,9 @@
 ## Gallery
 ![gallery](screenshots/1.jpg)
 ![gallery](screenshots/2.png)
-![gallery](demonstration/3.jpg)
-![gallery](demonstration/4.jpg)
-![gallery](demonstration/5.jpg)
+![gallery](screenshots/3.jpg)
+![gallery](screenshots/4.jpg)
+![gallery](screenshots/5.jpg)
 
 <!-- HOTKEYS -->
 ## HotKeys
