@@ -51,3 +51,9 @@ mv waybar/* ~/.config/waybar/
 mv wlogout/* ~/.config/wlogout/
 mv wofi/* ~/.config/wofi/
 ```
+
+To show fetch every time kitty is started:
+
+```
+cp fish/config.fish ~/.config/fish/config.fish
+```
