@@ -11,6 +11,7 @@
  - Terminal: **`Kitty`**
  - App Launcher: **`Wofi`**
  - Shell: **`Fish`**
+ - Logout menu: **`Wlogout`**
 
 </br>
 
