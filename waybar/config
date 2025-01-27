@@ -78,7 +78,7 @@
         "warning": 30,
         "critical": 15
       },
-      "format": "{icon} {capacity}%",
+      "format": "{icon}  {capacity}%",
       "format-full": "{icon} {capacity}%",
       "format-charging": " {capacity}%",
       "format-plugged": " {capacity}%",
@@ -100,10 +100,10 @@
       ]
     },
     "network": {
-      "format-wifi": " {signalStrength}%",
+      "format-wifi": "  {signalStrength}%",
       "format-ethernet": "{cidr} ",
       "tooltip-format": "{ifname} via {gwaddr} ",
-      "tooltip-format-wifi": "{essid} ( {signalStrength}%)",
+      "tooltip-format-wifi": "{essid} (  {signalStrength}%)",
       "tooltip-format-disconnected": "Disconnected ⚠",
       "format-linked": "{ifname} (No IP) ",
       "format-disconnected": " ⚠ ",
@@ -179,7 +179,7 @@
       ]
     },
     "custom/powermenu": {
-      "format": "",
+      "format": "⏻",
       "tooltip": false,
       "on-click": "wlogout -b 2"
     },
