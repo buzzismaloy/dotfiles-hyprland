@@ -36,6 +36,8 @@
 * **Take a screenshot** - `print`
 * **Restart bspwm** - `ctrl + shift + r`
 * **Switch to another workspace** - `super + [0-9]`
+* **Move focus within workspace** - `super + [←, ↑, →, ↓]`
+* **Move window within workspace** - `super + shift + [←, ↑, →, ↓]`
 
 The other hotkeys are in `~/.config/hypr/hyprland.conf`.
 
