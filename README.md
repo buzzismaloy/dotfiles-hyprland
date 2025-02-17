@@ -38,6 +38,8 @@
 * **Switch to another workspace** - `super + [0-9]`
 * **Move focus within workspace** - `super + [←, ↑, →, ↓]`
 * **Move window within workspace** - `super + shift + [←, ↑, →, ↓]`
+* **Start obsidian** - `super + c`
+* **Start virtualbox** - `super + v`
 
 The other hotkeys are in `~/.config/hypr/hyprland.conf`.
 
