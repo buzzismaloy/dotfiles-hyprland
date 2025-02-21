@@ -46,9 +46,11 @@ The other hotkeys are in `~/.config/hypr/hyprland.conf`.
 <!-- INSTALLATION -->
 ## Installation
 
+```bash
+git clone https://github.com/buzzismaloy/dotfiles-hyprland.git && cd dotfiles-hyprland/src/
 ```
-git clone https://github.com/buzzismaloy/dotfiles-hyprland.git
 
+```bash
 mv fastfetch/* ~/.config/fastfetch/
 mv hypr/* ~/.config/hypr/
 mv kitty/* ~/.config/kitty/
@@ -59,6 +61,6 @@ mv wofi/* ~/.config/wofi/
 
 To show fetch every time kitty is started:
 
-```
+```bash
 cp fish/config.fish ~/.config/fish/config.fish
 ```
