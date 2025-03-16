@@ -1,5 +1,5 @@
 <!-- INFORMATION -->
-<h1 align="left">About</h1> 
+<h1 align="left">About</h1>
 
 <img src="screenshots/2.png" alt="rice" align="right" width="500px">
 
@@ -64,3 +64,21 @@ To show fetch every time kitty is started:
 ```bash
 cp fish/config.fish ~/.config/fish/config.fish
 ```
+
+## See also
+
+Some Arch installation guides:
+
+* [Ksk Royal archinstall](https://www.youtube.com/watch?v=mWl4P6DOt9M)
+* [Ksk Royal install guide](https://www.youtube.com/watch?v=NxqU1G8hKWk)
+* [Comfy install guide](https://www.youtube.com/watch?v=68z11VAYMS8)
+* [How I install arch](https://www.youtube.com/watch?v=YC7NMbl4goo)
+
+Some fierce guides for arch:
+
+* [Guide with archinstall](https://www.youtube.com/watch?v=SBM2BUW-OH8)
+* [Guide without archinstall](https://www.youtube.com/watch?v=13NB0zP2gXY)
+
+Review on Hyprland:
+
+* [Hyprland review](https://www.youtube.com/watch?v=DGzHxZCzfio)
