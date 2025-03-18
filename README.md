@@ -82,3 +82,7 @@ Some fierce guides for arch:
 Review on Hyprland:
 
 * [Hyprland review](https://www.youtube.com/watch?v=DGzHxZCzfio)
+
+Text review on Hyprland customization options:
+
+* [Hyprland customization options](https://pingvinus.ru/note/hyprland-configuration)
