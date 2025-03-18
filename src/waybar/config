@@ -20,6 +20,9 @@
     "clock",
     "custom/powermenu",
     ],
+	"hyprland/language": {
+		"format": "{shortDescription}",
+    },
     "tray": {
       "icon-size": 20,
       "spacing": 8
@@ -100,7 +103,7 @@
       ]
     },
     "network": {
-      "format-wifi": "  {signalStrength}%",
+      "format-wifi": "  {bandwidthDownBits}",
       "format-ethernet": "{cidr} ",
       "tooltip-format": "{ifname} via {gwaddr} ",
       "tooltip-format-wifi": "{essid} (  {signalStrength}%)",
@@ -108,7 +111,8 @@
       "format-linked": "{ifname} (No IP) ",
       "format-disconnected": "⚠",
       "format-alt": "{ifname}: {ipaddr}/{cidr}",
-      "on-click-right": "exec kitty -e nmtui-connect" 
+      "on-click-right": "exec kitty -e nmtui-connect",
+	  "interval": 3
     },
    "bluetooth": {
 	"format": " {status}",
