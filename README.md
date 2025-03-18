@@ -34,10 +34,10 @@
 * **Open google** - `super + g`
 * **Lock the screen** - `super + l`
 * **Take a screenshot** - `print`
-* **Restart bspwm** - `ctrl + shift + r`
 * **Switch to another workspace** - `super + [0-9]`
 * **Move focus within workspace** - `super + [←, ↑, →, ↓]`
-* **Move window within workspace** - `super + shift + [←, ↑, →, ↓]`
+* **Move window within workspace silently** - `super + shift + [←, ↑, →, ↓]`
+* **Toggle floating** - `super + k`
 * **Start obsidian** - `super + c`
 * **Start virtualbox** - `super + v`
 
