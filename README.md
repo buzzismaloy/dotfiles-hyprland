@@ -29,17 +29,19 @@
 * **Open the terminal** - `super + enter`
 * **Close active window** - `super + q`
 * **Open file manager** - `super + e`
-* **Open the application menu** - `super + r`
+* **Open the application menu** - `super + w`
 * **Open firefox** - `super + f`
-* **Open google** - `super + g`
 * **Lock the screen** - `super + l`
 * **Take a screenshot** - `print`
 * **Switch to another workspace** - `super + [0-9]`
 * **Move focus within workspace** - `super + [←, ↑, →, ↓]`
 * **Move window within workspace silently** - `super + shift + [←, ↑, →, ↓]`
 * **Toggle floating** - `super + k`
-* **Start obsidian** - `super + c`
-* **Start virtualbox** - `super + v`
+* **Start obsidian** - `super + b`
+* **Start virtualbox** - `super + n`
+* **Open clipboard within wofi** - `super + v`
+* **Switch on/off waybar** - `super + u`
+* **Reload waybar config** - `super + i`
 
 The other hotkeys are in `~/.config/hypr/hyprland.conf`.
 
