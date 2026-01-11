@@ -38,7 +38,7 @@
 * **Move window within workspace silently** - `super + shift + [←, ↑, →, ↓]`
 * **Toggle floating** - `super + k`
 * **Start obsidian** - `super + b`
-* **Start virtualbox** - `super + n`
+* **Start visual studio code** - `super + c`
 * **Open clipboard within wofi** - `super + v`
 * **Switch on/off waybar** - `super + u`
 * **Reload waybar config** - `super + i`
